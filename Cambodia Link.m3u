@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ទូរទស្សន៍មហាផ្ទៃ || MOI
+http://202.62.56.22:8080/hls/MOITV.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ប៉ុស្តិ៍អប់រំ || E-Learning
+http://217.15.167.95:5080/LiveApp/streams/etv_live.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,ក្រសួងព័ត៌មាន
+https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,metfone STAR
+https://live-evg10.tv360.metfone.com.kh/live/metfonestar.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,Film
+https://live-evg3.tv360.metfone.com.kh/live/metfonetv.m3u8
+#EXTINF:0 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" ,Cartoon Kid
+https://live-evg3.tv360.metfone.com.kh/live/metfonekids.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ABC Cambodia" ,ABC Cambodia
+http://217.15.167.95:5080/live/streams/live_3.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-id="MSJTV.kh" tvg-name="MSJ TV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" ,MSJ TV (720p)
+http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ខ្មែរធីវី || Khmer TV" tvg-logo="https://khmertv.com/wp-content/uploads/2020/12/newlogo.png" ,ខ្មែរធីវី || Khmer TV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ថោនធីវី || TOWN TV" ,ថោនធីវី || TOWN TV
+https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ទទក || TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg" ,ទទក || TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ទទក២ || TVK2" tvg-logo="https://1.bp.blogspot.com/-8NmU9zAI8II/YAxK9xDT6nI/AAAAAAAAKZI/yWn2huJJTv8clEthifz8IFaRtCjbbVYCwCLcBGAsYHQ/s332/tvk2.png" ,ទទក២ || TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ទូរស្សន៍អាស៊ីអាគ្នេយ៍ || SEA TV" tvg-logo="https://i.imgur.com/Fo1Wr7a.png" ,ទូរស្សន៍អាស៊ីអាគ្នេយ៍ || SEA TV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="នេតលីង || Netlink TV" tvg-logo="https://image3.mouthshut.com/images/imagesp/925856509s.png" ,នេតលីង || Netlink TV
+http://192.53.117.208/hls/test.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="បាយ័នធីវី || Bayon TV" ,បាយ័នធីវី || Bayon TV
+https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ប៊ីធីវី || BTV" ,ប៊ីធីវី || BTV
+https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ប៉ុស្តិ៍លេខ៣ || TV3" tvg-logo="https://i.imgur.com/76XWq08.png" ,ប៉ុស្តិ៍លេខ៣ || TV3
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ប៉ុស្តិ៍លេខ៥ || TV5" ,ប៉ុស្តិ៍លេខ៥ || TV5
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ប៉ុស្តិ៍លេខ៩ ||  TV9" ,ប៉ុស្តិ៍លេខ៩ ||  TV9
+https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ភី អិន អិន || PNN" ,ភី អិន អិន || PNN
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="រស្មីហង្សមាស || Raksmey Hang Meas" ,រស្មីហង្សមាស || Raksmey Hang Meas
+http://clive.malisresidences.com:1935/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w301833529_b1800000_sleng.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ហង្សមាស || HDTV" ,ហង្សមាស || HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-name="ហ្វេសញ៉ូ || Fresh News" tvg-logo="https://i.imgur.com/6p0TK7e.png" ,ហ្វេសញ៉ូ || Fresh News
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇭 || ប៉ុស្តិ៍កម្ពុជា || Cambodia" tvg-id="ApsaraTV11.kh" tvg-name="អប្សរាលេខ ១១ || Apsara TV11" tvg-logo="https://i.imgur.com/9wJe71I.png" ,អប្សរាលេខ ១១ || Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
